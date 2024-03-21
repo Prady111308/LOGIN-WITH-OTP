@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.inputOtp
+{
+  width:40px;
+  height:40px;
+  font-size: 1.5rem;
+  margin: 5px;
+  text-align: center;
+}
+input 
+{
+  font-size: 1.5rem;
+}
+
+
